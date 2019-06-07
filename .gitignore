@@ -1,0 +1,21 @@
+# Logs and databases #
+######################
+*.log
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+ehthumbs.db
+Thumbs.db
+
+# Build Systems #
+######################
+node_modules/
+.sass-cache
+*.css.map
+build/
+dist/
+maps/
+config/
